@@ -12,10 +12,10 @@ import numpy as np
 
 
 # ---- تحميل الموديلات ----
-model1 = load_model(r"C:\Users\User\Desktop\CIFAKE_Project\Models\CIFAKE1.keras")
-model2 = load_model(r"C:\Users\User\Desktop\CIFAKE_Project\Models\CIFAKE2.keras")
-model3 = load_model(r"C:\Users\User\Desktop\CIFAKE_Project\Models\CIFAKE3.keras")
-model4 = load_model(r"C:\Users\User\Desktop\CIFAKE_Project\Models\CIFAKE4.keras")
+model1 = load_model(r"CIFAKE1.keras")
+model2 = load_model(r"CIFAKE2.keras")
+model3 = load_model(r"CIFAKE3.keras")
+model4 = load_model(r"CIFAKE4.keras")
 
 
 # عنوان رئيسي
